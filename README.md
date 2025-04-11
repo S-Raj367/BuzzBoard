@@ -1,9 +1,5 @@
-# Miro Clone
+# BUZZBOARD
 
-This project is a clone of the popular Miro whiteboard application, built using modern web technologies and tools. Follow the tutorial by [Code with Antonio](https://www.youtube.com/@codewithantonio) to create your own collaborative whiteboard app.
-
-|<img width="1439" alt="image" src="https://github.com/jatin1510/miro-clone/assets/72184476/02756b9e-7a33-4bf6-933e-d4119d16153d">|
-|-|
 |<img width="1440" alt="image" src="https://github.com/jatin1510/miro-clone/assets/72184476/3c038d07-457e-44da-8019-15330ca4ecc8">|
 |<img width="1440" alt="image" src="https://github.com/jatin1510/miro-clone/assets/72184476/8df60147-bb35-4a2b-aaa7-73161cd9d1b5">|
 
@@ -13,10 +9,6 @@ This project is a clone of the popular Miro whiteboard application, built using 
 - **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
 - **Backend**: [convex](https://www.convex.dev/)
 - **Real-time Collaboration**: [liveblocks](https://liveblocks.io/)
-
-## Deployment
-
-The application is deployed on Vercel. Check it out [here](https://miro-clone-chi.vercel.app).
 
 ## Getting Started
 
@@ -30,13 +22,6 @@ Make sure you have the following installed on your system:
 - npm
 
 ### Installation
-
-1. **Clone the repository:**
-
-    ```sh
-    git clone https://github.com/jatin1510/miro-clone
-    cd miro-clone
-    ```
 
 2. **Install dependencies:**
 
@@ -102,12 +87,6 @@ Make sure you have the following installed on your system:
 - **Bug Fixes**:
   - **Search and Favorite Functionality**: Fixed the search and favorite functionality by using `useSearchParams`.
 
-## Tutorial
 
-This project follows the tutorial by [Code with Antonio](https://www.youtube.com/@codewithantonio). Watch the full tutorial on [YouTube](https://www.youtube.com/watch?v=ADJKbuayubE).
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ---
