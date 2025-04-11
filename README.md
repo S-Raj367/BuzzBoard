@@ -1,7 +1,7 @@
 # BUZZBOARD
 
-|<img width="1440" alt="image" src="https://github.com/jatin1510/miro-clone/assets/72184476/3c038d07-457e-44da-8019-15330ca4ecc8">|
-|<img width="1440" alt="image" src="https://github.com/jatin1510/miro-clone/assets/72184476/8df60147-bb35-4a2b-aaa7-73161cd9d1b5">|
+<img width="1440" alt="image" src="https://github.com/jatin1510/miro-clone/assets/72184476/3c038d07-457e-44da-8019-15330ca4ecc8">
+<img width="1440" alt="image" src="https://github.com/jatin1510/miro-clone/assets/72184476/8df60147-bb35-4a2b-aaa7-73161cd9d1b5">
 
 ## Tech Stack
 
